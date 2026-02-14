@@ -88,5 +88,5 @@ jobs:
               if($LASTEXITCODE -ne 0) {exit $LASTEXITCODE}
           }
 
-          craft --src-dir ${{ github.workspace }} -package nextcloud-client
+          craft --src-dir ${{ github.workspace }} --package nextcloud-client
 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 160 160"
+	 style="enable-background:new 0 0 160 160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#1D3A6B;}
+	.st2{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10" guidetolerance="10" id="namedview16" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="Layer_1" inkscape:cx="57.814339" inkscape:cy="72.675931" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-page="true" inkscape:window-height="812" inkscape:window-maximized="1" inkscape:window-width="1440" inkscape:window-x="0" inkscape:window-y="23" inkscape:zoom="2.8284271" objecttolerance="10" pagecolor="#ffffff" showgrid="false" units="px">
+	</sodipodi:namedview>
+<circle id="circle1050" inkscape:export-filename="nextcloud-icon.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300" class="st0" cx="80" cy="80" r="79">
+</circle>
+<g>
+	<g>
+		<g id="Layer_1-2">
+			<g id="Box">
+				<path class="st1" d="M142.4,86c0,13-10.6,23.7-23.7,23.7l0,0H31.1c-6.8,0-12.3-5.5-12.3-12.2c0-6.8,5.5-12.3,12.3-12.3
+					c0.9,0,1.9,0.1,2.8,0.3c-0.1-0.7-0.1-1.4,0-2.1c-0.1-7.7,6.2-14,14-14c2.6,0,5.2,0.7,7.3,2.1c4.5-16,21.2-25.2,37.2-20.7
+					c7.3,2.1,13.5,6.8,17.4,13.2c2.9-1.1,5.8-1.7,8.9-1.7C131.8,62.2,142.4,72.9,142.4,86z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path class="st2" d="M70.5,87.9V74.1h12.9c3,0,5.3,0.9,7.1,2.6c1.8,1.7,2.6,4,2.6,6.6c0,2.7-0.9,4.9-2.6,6.6
+			c-1.8,1.7-4.1,2.6-7.1,2.6h-7.9v5l-5,3.5v-8.5V87.9z M75.5,87.9H83c1.7,0,2.9-0.4,3.8-1.3c0.9-0.9,1.3-1.9,1.3-3.2
+			s-0.4-2.4-1.3-3.2c-0.9-0.9-2.1-1.3-3.8-1.3h-7.5V87.9z"/>
+		<path class="st2" d="M96.2,80.2v-3.6l4.5-3.1v6.7h5.8l-2.3,4.2h-3.5v8.3c0,1.1,0.1,2,0.4,2.6c0.3,0.6,0.8,1.1,1.4,1.5l2.4,1.4
+			l-2,3.5c-2.5-1.2-4.2-2.3-5.2-3.4c-1-1.1-1.5-2.6-1.5-4.7v-9V80.2z"/>
+	</g>
+</g>
+</svg>
