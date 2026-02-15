@@ -90,3 +90,11 @@ jobs:
 
           craft --src-dir ${{ github.workspace }} --package nextcloud-client
 
+      - name: Archive
+        #run: mkdir downloads
+        #run: cp .exe downloads
+        uses: actions/upload-artifacts@v4
+        with:
+          name: assets-for-download
+          path: D:/_/538c5119/image-RelWithDebInfo-stable-4.0/a/ptcloud-desktop/ptcloud-desktop/windows-msvc2022_64-cl/
+
