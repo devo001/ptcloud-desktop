@@ -38,25 +38,25 @@ jobs:
           craft craft
           craft --install-deps nextcloud-client
           
-      - name: Cache Install OpenCppCoverage
-        id: cache-install-opencppcoverage
-        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
-        with:
-          path: C:\Program Files\OpenCppCoverage
-          key: ${{ runner.os }}-cache-install-opencppcoverage
-          
-      - name: Install OpenCppCoverage
-        if: steps.cache-install-opencppcoverage.outputs.cache-hit != 'true'
-        shell: pwsh
-        run: |
-          choco install opencppcoverage
-
-      #- name: Cache Install inkscape
-      #  id: cache-install-inkscape
+      #- name: Cache Install OpenCppCoverage
+      #  id: cache-install-opencppcoverage
       #  uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
       #  with:
-      #    path: C:\Program Files\inkscape
-      #    key: ${{ runner.os }}-cache-install-inkscape
+      #    path: C:\Program Files\OpenCppCoverage
+      #    key: ${{ runner.os }}-cache-install-opencppcoverage
+          
+      #- name: Install OpenCppCoverage
+      #  if: steps.cache-install-opencppcoverage.outputs.cache-hit != 'true'
+      #  shell: pwsh
+      #  run: |
+      #    choco install opencppcoverage
+
+      ##- name: Cache Install inkscape
+      ##  id: cache-install-inkscape
+      ##  uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+      ##  with:
+      ##    path: C:\Program Files\inkscape
+      ##    key: ${{ runner.os }}-cache-install-inkscape
 
       - name: Install inkscape
       #  if: steps.cache-install-inkscape.outputs.cache-hit != 'true'
